@@ -70,11 +70,8 @@ the `dataset.py` in each package.
 
 The domain-adapted ViT-S/14 backbone and the per-task fine-tuned models are
 distributed separately through a shared drive; the link is provided below.
-They are not committed here because they are large binary artifacts.
 
-```
-<PASTE SHARED-DRIVE LINK>
-```
+**[checkpoints.zip](https://drive.google.com/file/d/1vgN-RgZO_Ys_jNBQWXjDcO2Yizsv9Uho/view?usp=sharing)** (Google Drive)
 
 Expected files:
 
