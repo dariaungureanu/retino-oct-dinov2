@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Trained weights (distributed separately via the shared drive)
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Generated outputs and logs
+results/
+figures/
+wandb/
+*.log
+
+# Data (datasets obtained from their original release pages)
+data/
+datasets/
+*.h5
+*.hdf5
+*.json
+
+# CSVs are ignored by default, but the OCT5k label metadata is source-of-record
+*.csv
+!finetune_oct5k/oct5k_bboxes.csv
+!finetune_oct5k/oct5k_metadata.csv

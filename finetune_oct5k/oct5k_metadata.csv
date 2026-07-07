@@ -1,0 +1,567 @@
+image,image_csv,patient_id,Choroidalfolds,Fluid,Geographicatrophy,Harddrusen,Hyperfluorescentspots,PRlayerdisruption,Reticulardrusen,Softdrusen,SoftdrusenPED,bbox_count
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 10.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 10.png,AMD_1,0,0,1,0,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 11.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 11.png,AMD_1,0,0,1,1,0,0,1,0,0,6
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 12.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 12.png,AMD_1,0,0,1,1,0,1,0,1,0,6
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 13.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 13.png,AMD_1,0,0,1,0,0,1,0,1,0,7
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 14.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 14.png,AMD_1,0,0,1,1,0,1,0,1,1,13
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 15.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 15.png,AMD_1,0,0,1,1,0,1,0,1,1,11
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 16.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 16.png,AMD_1,0,0,1,1,0,1,0,1,1,13
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 18.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 18.png,AMD_1,0,0,0,1,0,1,0,1,1,11
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 19.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 19.png,AMD_1,0,0,0,1,0,0,0,1,0,9
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 20.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 20.png,AMD_1,0,0,0,1,0,0,0,1,0,7
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 7.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 7.png,AMD_1,0,0,0,0,0,0,0,1,0,1
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 8.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 8.png,AMD_1,0,0,0,1,0,1,0,0,0,5
+Images_Manual/AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 9.png,AMD Part1/AMD (1).E2E/2- 25- 2017 9- 10- 42 PM/Image 9.png,AMD_1,0,0,1,1,0,1,0,0,0,10
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 10.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 10.png,AMD_10,0,0,0,0,0,1,0,0,0,4
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 11.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 11.png,AMD_10,0,0,0,0,0,1,0,0,0,2
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 12.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 12.png,AMD_10,0,0,0,0,0,1,0,0,0,3
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 14.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 14.png,AMD_10,0,0,0,0,0,1,0,0,0,1
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 22.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 22.png,AMD_10,1,0,0,0,0,1,0,0,0,3
+Images_Manual/AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 9.png,AMD Part1/AMD (10).E2E/2- 25- 2017 9- 27- 53 PM/Image 9.png,AMD_10,0,0,0,0,0,1,0,0,0,1
+Images_Automatic/AMD Part1/AMD (10)/Image (10).png,AMD Part1/AMD (10)/Image (10).png,AMD_10,0,0,0,0,0,1,1,0,0,12
+Images_Automatic/AMD Part1/AMD (10)/Image (11).png,AMD Part1/AMD (10)/Image (11).png,AMD_10,0,0,0,1,0,1,0,0,0,13
+Images_Automatic/AMD Part1/AMD (10)/Image (12).png,AMD Part1/AMD (10)/Image (12).png,AMD_10,0,0,0,0,0,1,1,0,0,9
+Images_Automatic/AMD Part1/AMD (10)/Image (14).png,AMD Part1/AMD (10)/Image (14).png,AMD_10,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (10)/Image (15).png,AMD Part1/AMD (10)/Image (15).png,AMD_10,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (10)/Image (17).png,AMD Part1/AMD (10)/Image (17).png,AMD_10,0,0,0,1,0,1,1,1,0,16
+Images_Automatic/AMD Part1/AMD (10)/Image (18).png,AMD Part1/AMD (10)/Image (18).png,AMD_10,1,0,1,1,1,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (10)/Image (21).png,AMD Part1/AMD (10)/Image (21).png,AMD_10,1,0,0,0,0,0,1,0,0,5
+Images_Automatic/AMD Part1/AMD (10)/Image (24).png,AMD Part1/AMD (10)/Image (24).png,AMD_10,0,0,0,0,0,1,1,0,0,5
+Images_Automatic/AMD Part1/AMD (10)/Image (26).png,AMD Part1/AMD (10)/Image (26).png,AMD_10,0,0,0,1,0,1,1,0,0,20
+Images_Automatic/AMD Part1/AMD (10)/Image (34).png,AMD Part1/AMD (10)/Image (34).png,AMD_10,0,0,0,1,0,1,0,0,0,6
+Images_Automatic/AMD Part1/AMD (10)/Image (9).png,AMD Part1/AMD (10)/Image (9).png,AMD_10,0,0,0,1,0,1,0,0,0,9
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 1.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 1.png,AMD_11,1,0,0,0,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 11.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 11.png,AMD_11,0,0,0,1,0,0,0,1,0,8
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 12.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 12.png,AMD_11,0,0,0,1,0,0,0,1,0,9
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 13.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 13.png,AMD_11,1,0,0,1,0,0,0,1,0,6
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 14.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 14.png,AMD_11,1,0,0,1,0,0,1,0,0,6
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 18.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 18.png,AMD_11,1,0,0,0,0,0,0,0,0,1
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 19.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 19.png,AMD_11,1,0,0,0,0,0,0,0,0,2
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 2.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 2.png,AMD_11,1,0,0,0,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 3.png,AMD Part1/AMD (11).E2E/2- 25- 2017 4- 44- 26 PM/Image 3.png,AMD_11,1,0,0,0,0,0,0,0,0,3
+Images_Automatic/AMD Part1/AMD (11)/Image (10).png,AMD Part1/AMD (11)/Image (10).png,AMD_11,0,1,1,0,0,1,0,1,0,9
+Images_Automatic/AMD Part1/AMD (11)/Image (11).png,AMD Part1/AMD (11)/Image (11).png,AMD_11,0,1,1,0,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (11)/Image (12).png,AMD Part1/AMD (11)/Image (12).png,AMD_11,0,0,1,0,0,1,0,1,0,5
+Images_Automatic/AMD Part1/AMD (11)/Image (13).png,AMD Part1/AMD (11)/Image (13).png,AMD_11,0,0,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part1/AMD (11)/Image (14).png,AMD Part1/AMD (11)/Image (14).png,AMD_11,0,0,1,0,0,0,0,1,0,5
+Images_Automatic/AMD Part1/AMD (11)/Image (15).png,AMD Part1/AMD (11)/Image (15).png,AMD_11,0,1,1,0,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (11)/Image (16).png,AMD Part1/AMD (11)/Image (16).png,AMD_11,0,1,1,0,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (11)/Image (19).png,AMD Part1/AMD (11)/Image (19).png,AMD_11,0,0,0,1,0,1,0,1,0,10
+Images_Automatic/AMD Part1/AMD (11)/Image (23).png,AMD Part1/AMD (11)/Image (23).png,AMD_11,0,0,0,0,0,1,0,1,0,5
+Images_Automatic/AMD Part1/AMD (11)/Image (28).png,AMD Part1/AMD (11)/Image (28).png,AMD_11,0,0,0,1,0,1,0,1,0,10
+Images_Automatic/AMD Part1/AMD (11)/Image (31).png,AMD Part1/AMD (11)/Image (31).png,AMD_11,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (11)/Image (4).png,AMD Part1/AMD (11)/Image (4).png,AMD_11,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (11)/Image (5).png,AMD Part1/AMD (11)/Image (5).png,AMD_11,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (11)/Image (6).png,AMD Part1/AMD (11)/Image (6).png,AMD_11,0,0,0,1,0,1,0,1,0,13
+Images_Automatic/AMD Part1/AMD (11)/Image (7).png,AMD Part1/AMD (11)/Image (7).png,AMD_11,0,0,0,1,0,0,0,0,0,9
+Images_Automatic/AMD Part1/AMD (11)/Image (9).png,AMD Part1/AMD (11)/Image (9).png,AMD_11,0,1,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 14.png,AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 14.png,AMD_12,0,0,0,1,0,1,0,1,1,15
+Images_Automatic/AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 15.png,AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 15.png,AMD_12,0,0,0,0,0,0,1,0,1,6
+Images_Automatic/AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 16.png,AMD Part1/AMD (12).E2E/2- 25- 2017 4- 45- 26 PM/Image 16.png,AMD_12,0,0,0,0,1,1,1,0,1,17
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 24.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 24.png,AMD_13,0,0,0,1,0,0,0,1,0,7
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 25.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 25.png,AMD_13,0,0,0,0,0,0,0,1,0,6
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 26.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 26.png,AMD_13,0,0,0,0,0,0,0,0,1,6
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 27.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 27.png,AMD_13,0,0,0,1,0,1,0,1,1,7
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 28.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 28.png,AMD_13,0,0,0,1,0,0,0,1,1,10
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 29.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 29.png,AMD_13,0,0,0,1,0,0,0,1,1,12
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 30.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 30.png,AMD_13,0,0,0,1,0,1,0,1,1,19
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 31.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 31.png,AMD_13,0,0,0,1,0,0,0,1,1,18
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 34.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 34.png,AMD_13,0,0,0,1,0,0,0,1,1,20
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 35.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 35.png,AMD_13,0,0,0,1,1,0,0,1,1,19
+Images_Manual/AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 36.png,AMD Part1/AMD (13).E2E/2- 25- 2017 4- 48- 43 PM/Image 36.png,AMD_13,0,0,0,1,0,0,0,1,1,12
+Images_Automatic/AMD Part1/AMD (13)/Image (11).png,AMD Part1/AMD (13)/Image (11).png,AMD_13,0,0,0,1,0,1,0,0,0,12
+Images_Automatic/AMD Part1/AMD (13)/Image (13).png,AMD Part1/AMD (13)/Image (13).png,AMD_13,0,0,0,1,0,1,0,1,0,14
+Images_Automatic/AMD Part1/AMD (13)/Image (15).png,AMD Part1/AMD (13)/Image (15).png,AMD_13,0,0,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part1/AMD (13)/Image (16).png,AMD Part1/AMD (13)/Image (16).png,AMD_13,0,0,1,0,0,1,0,0,0,7
+Images_Automatic/AMD Part1/AMD (13)/Image (17).png,AMD Part1/AMD (13)/Image (17).png,AMD_13,0,0,0,0,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (13)/Image (18).png,AMD Part1/AMD (13)/Image (18).png,AMD_13,0,0,1,0,0,1,0,1,0,6
+Images_Automatic/AMD Part1/AMD (13)/Image (19).png,AMD Part1/AMD (13)/Image (19).png,AMD_13,0,1,1,1,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (13)/Image (20).png,AMD Part1/AMD (13)/Image (20).png,AMD_13,0,0,1,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (13)/Image (21).png,AMD Part1/AMD (13)/Image (21).png,AMD_13,0,1,1,1,0,1,0,0,0,6
+Images_Automatic/AMD Part1/AMD (13)/Image (22).png,AMD Part1/AMD (13)/Image (22).png,AMD_13,0,0,1,0,0,1,0,0,0,7
+Images_Automatic/AMD Part1/AMD (13)/Image (23).png,AMD Part1/AMD (13)/Image (23).png,AMD_13,0,0,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part1/AMD (13)/Image (24).png,AMD Part1/AMD (13)/Image (24).png,AMD_13,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (13)/Image (25).png,AMD Part1/AMD (13)/Image (25).png,AMD_13,0,0,0,0,0,1,0,1,0,10
+Images_Automatic/AMD Part1/AMD (13)/Image (27).png,AMD Part1/AMD (13)/Image (27).png,AMD_13,0,0,0,0,0,1,0,1,0,11
+Images_Automatic/AMD Part1/AMD (13)/Image (29).png,AMD Part1/AMD (13)/Image (29).png,AMD_13,0,0,0,0,0,1,0,1,0,9
+Images_Automatic/AMD Part1/AMD (13)/Image (9).png,AMD Part1/AMD (13)/Image (9).png,AMD_13,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 13.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 13.png,AMD_14,0,0,0,0,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 14.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 14.png,AMD_14,0,0,0,1,0,1,1,0,0,5
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 15.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 15.png,AMD_14,0,0,0,0,0,1,1,0,0,6
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 16.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 16.png,AMD_14,0,0,0,1,0,1,1,0,0,7
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 3.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 3.png,AMD_14,1,0,0,0,0,0,0,0,0,2
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 4.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 4.png,AMD_14,1,0,0,0,0,0,0,0,0,2
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 6.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 6.png,AMD_14,1,0,0,0,0,0,0,0,0,2
+Images_Automatic/AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 9.png,AMD Part1/AMD (14).E2E/2- 25- 2017 4- 50- 16 PM/Image 9.png,AMD_14,1,0,0,0,0,0,1,0,1,3
+Images_Automatic/AMD Part1/AMD (14)/Image (11).png,AMD Part1/AMD (14)/Image (11).png,AMD_14,0,0,0,1,0,1,0,0,0,11
+Images_Automatic/AMD Part1/AMD (14)/Image (13).png,AMD Part1/AMD (14)/Image (13).png,AMD_14,0,0,0,1,0,1,0,1,0,14
+Images_Automatic/AMD Part1/AMD (14)/Image (15).png,AMD Part1/AMD (14)/Image (15).png,AMD_14,0,0,0,0,0,1,0,1,0,11
+Images_Automatic/AMD Part1/AMD (14)/Image (17).png,AMD Part1/AMD (14)/Image (17).png,AMD_14,0,0,1,0,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (14)/Image (19).png,AMD Part1/AMD (14)/Image (19).png,AMD_14,0,0,1,1,0,1,0,1,0,12
+Images_Automatic/AMD Part1/AMD (14)/Image (21).png,AMD Part1/AMD (14)/Image (21).png,AMD_14,0,1,1,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (14)/Image (23).png,AMD Part1/AMD (14)/Image (23).png,AMD_14,0,0,1,0,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (14)/Image (31).png,AMD Part1/AMD (14)/Image (31).png,AMD_14,0,0,0,0,0,1,0,1,0,10
+Images_Automatic/AMD Part1/AMD (14)/Image (33).png,AMD Part1/AMD (14)/Image (33).png,AMD_14,0,0,0,1,0,1,0,1,0,13
+Images_Automatic/AMD Part1/AMD (14)/Image (35).png,AMD Part1/AMD (14)/Image (35).png,AMD_14,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (14)/Image (37).png,AMD Part1/AMD (14)/Image (37).png,AMD_14,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (14)/Image (41).png,AMD Part1/AMD (14)/Image (41).png,AMD_14,0,0,1,0,0,1,0,1,0,6
+Images_Automatic/AMD Part1/AMD (14)/Image (44).png,AMD Part1/AMD (14)/Image (44).png,AMD_14,0,0,1,0,0,1,0,1,0,8
+Images_Automatic/AMD Part1/AMD (14)/Image (47).png,AMD Part1/AMD (14)/Image (47).png,AMD_14,0,0,1,0,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (14)/Image (50).png,AMD Part1/AMD (14)/Image (50).png,AMD_14,0,0,1,0,0,1,0,0,0,6
+Images_Automatic/AMD Part1/AMD (14)/Image (7).png,AMD Part1/AMD (14)/Image (7).png,AMD_14,0,0,0,1,0,1,0,0,0,13
+Images_Automatic/AMD Part1/AMD (14)/Image (9).png,AMD Part1/AMD (14)/Image (9).png,AMD_14,0,0,0,1,0,1,0,0,0,11
+Images_Automatic/AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 13.PNG,AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 13.PNG,AMD_15,0,0,0,0,0,1,1,1,0,10
+Images_Automatic/AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 14.PNG,AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 14.PNG,AMD_15,0,0,0,0,0,1,1,1,0,13
+Images_Automatic/AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 15.PNG,AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 15.PNG,AMD_15,1,0,0,0,0,1,1,1,0,23
+Images_Automatic/AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 16.PNG,AMD Part1/AMD (15).E2E/2- 25- 2017 4- 57- 03 PM/Image 16.PNG,AMD_15,0,0,0,0,0,0,0,1,1,5
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 1.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 1.PNG,AMD_16,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 11.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 11.PNG,AMD_16,0,0,0,0,0,0,0,1,1,6
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 12.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 12.PNG,AMD_16,0,0,0,0,0,0,0,1,1,5
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 13.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 13.PNG,AMD_16,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 2.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 2.PNG,AMD_16,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 3.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 3.PNG,AMD_16,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 4.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 4.PNG,AMD_16,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 8.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 8.PNG,AMD_16,0,0,0,0,0,1,0,0,0,1
+Images_Automatic/AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 9.PNG,AMD Part1/AMD (16).E2E/2- 25- 2017 4- 57- 54 PM/Image 9.PNG,AMD_16,0,0,0,0,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 10.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 10.PNG,AMD_17,0,0,1,0,1,0,1,1,1,13
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 11.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 11.PNG,AMD_17,0,0,0,1,1,1,1,1,1,18
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 12.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 12.PNG,AMD_17,0,0,0,1,0,1,1,1,1,22
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 13.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 13.PNG,AMD_17,0,0,1,0,0,1,1,1,1,18
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 7.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 7.PNG,AMD_17,0,0,0,1,0,0,1,1,1,12
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 8.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 8.PNG,AMD_17,0,0,0,0,0,0,1,1,1,10
+Images_Automatic/AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 9.PNG,AMD Part1/AMD (17).E2E/2- 25- 2017 4- 59- 48 PM/Image 9.PNG,AMD_17,0,0,0,0,0,1,0,1,1,12
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 1.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 1.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 2.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 2.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 3.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 3.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 4.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 4.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 5.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 5.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 6.PNG,AMD Part1/AMD (18).E2E/2- 25- 2017 5- 01- 17 PM/Image 6.PNG,AMD_18,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (18)/Image (10).png,AMD Part1/AMD (18)/Image (10).png,AMD_18,0,0,0,1,0,1,0,1,0,13
+Images_Automatic/AMD Part1/AMD (18)/Image (13).png,AMD Part1/AMD (18)/Image (13).png,AMD_18,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (18)/Image (16).png,AMD Part1/AMD (18)/Image (16).png,AMD_18,0,0,0,1,0,0,0,1,0,10
+Images_Automatic/AMD Part1/AMD (18)/Image (19).png,AMD Part1/AMD (18)/Image (19).png,AMD_18,0,0,0,1,0,0,0,1,1,5
+Images_Automatic/AMD Part1/AMD (18)/Image (23).png,AMD Part1/AMD (18)/Image (23).png,AMD_18,0,0,0,1,0,0,0,1,0,12
+Images_Automatic/AMD Part1/AMD (18)/Image (27).png,AMD Part1/AMD (18)/Image (27).png,AMD_18,0,0,0,1,0,0,0,1,0,7
+Images_Automatic/AMD Part1/AMD (18)/Image (30).png,AMD Part1/AMD (18)/Image (30).png,AMD_18,0,0,0,1,0,0,0,1,0,7
+Images_Automatic/AMD Part1/AMD (18)/Image (32).png,AMD Part1/AMD (18)/Image (32).png,AMD_18,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 10.PNG,AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 10.PNG,AMD_19,0,0,0,1,0,0,0,1,1,9
+Images_Automatic/AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 11.PNG,AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 11.PNG,AMD_19,0,0,0,0,0,0,0,0,1,5
+Images_Automatic/AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 12.PNG,AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 12.PNG,AMD_19,0,0,0,1,0,0,0,1,1,14
+Images_Automatic/AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 13.PNG,AMD Part1/AMD (19).E2E/2- 25- 2017 5- 02- 38 PM/Image 13.PNG,AMD_19,0,0,0,0,0,0,0,1,0,12
+Images_Automatic/AMD Part1/AMD (19)/Image (15).png,AMD Part1/AMD (19)/Image (15).png,AMD_19,0,0,0,1,0,0,0,1,0,10
+Images_Automatic/AMD Part1/AMD (19)/Image (19).png,AMD Part1/AMD (19)/Image (19).png,AMD_19,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/AMD Part1/AMD (19)/Image (23).png,AMD Part1/AMD (19)/Image (23).png,AMD_19,0,0,0,1,0,0,0,1,0,11
+Images_Automatic/AMD Part1/AMD (19)/Image (28).png,AMD Part1/AMD (19)/Image (28).png,AMD_19,0,0,0,1,0,0,0,1,0,11
+Images_Automatic/AMD Part1/AMD (19)/Image (32).png,AMD Part1/AMD (19)/Image (32).png,AMD_19,0,0,0,1,0,1,0,1,0,8
+Images_Automatic/AMD Part1/AMD (19)/Image (36).png,AMD Part1/AMD (19)/Image (36).png,AMD_19,0,0,0,1,0,1,0,1,0,9
+Images_Automatic/AMD Part1/AMD (19)/Image (9).png,AMD Part1/AMD (19)/Image (9).png,AMD_19,0,0,0,1,0,1,0,1,0,10
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 10.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 10.png,AMD_2,0,0,1,1,1,0,0,1,0,11
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 11.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 11.png,AMD_2,0,0,1,1,0,0,0,1,0,7
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 13.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 13.png,AMD_2,0,0,1,1,0,1,0,1,1,18
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 14.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 14.png,AMD_2,0,0,1,1,1,1,0,1,1,24
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 15.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 15.png,AMD_2,0,0,1,1,0,1,0,1,1,21
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 16.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 16.png,AMD_2,0,0,1,1,0,1,0,1,1,25
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 17.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 17.png,AMD_2,0,0,1,1,1,0,0,1,0,12
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 18.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 18.png,AMD_2,0,0,1,1,0,0,1,1,0,9
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 20.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 20.png,AMD_2,0,0,0,0,0,0,0,1,0,8
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 21.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 21.png,AMD_2,0,0,0,0,0,1,0,1,0,6
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 22.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 22.png,AMD_2,0,0,0,1,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 5.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 5.png,AMD_2,0,0,0,1,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 6.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 6.png,AMD_2,0,0,0,1,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 7.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 7.png,AMD_2,0,0,0,1,0,1,0,0,0,5
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 8.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 8.png,AMD_2,0,0,1,1,0,0,0,1,1,16
+Images_Manual/AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 9.png,AMD Part1/AMD (2).E2E/2- 25- 2017 9- 12- 39 PM/Image 9.png,AMD_2,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 10.png,AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 10.png,AMD_20,0,0,0,0,0,0,1,0,0,1
+Images_Automatic/AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 11.png,AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 11.png,AMD_20,0,0,0,0,0,0,1,1,0,2
+Images_Automatic/AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 15.png,AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 15.png,AMD_20,0,0,0,0,0,0,1,1,0,2
+Images_Automatic/AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 16.png,AMD Part1/AMD (20).E2E/2- 25- 2017 5- 09- 09 PM/Image 16.png,AMD_20,0,0,0,0,0,0,1,1,0,2
+Images_Manual/AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 30.png,AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 30.png,AMD_21,0,0,0,1,0,0,0,1,0,3
+Images_Manual/AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 54.png,AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 54.png,AMD_21,0,0,0,1,0,0,0,1,1,6
+Images_Manual/AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 55.png,AMD Part1/AMD (21).E2E/2- 25- 2017 5- 10- 29 PM/Image 55.png,AMD_21,0,0,0,0,0,0,0,1,0,2
+Images_Automatic/AMD Part1/AMD (21)/Image (10).png,AMD Part1/AMD (21)/Image (10).png,AMD_21,0,0,0,1,0,1,0,0,0,11
+Images_Automatic/AMD Part1/AMD (21)/Image (13).png,AMD Part1/AMD (21)/Image (13).png,AMD_21,0,0,0,0,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (21)/Image (17).png,AMD Part1/AMD (21)/Image (17).png,AMD_21,0,0,0,1,0,1,0,0,0,11
+Images_Automatic/AMD Part1/AMD (21)/Image (21).png,AMD Part1/AMD (21)/Image (21).png,AMD_21,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (21)/Image (25).png,AMD Part1/AMD (21)/Image (25).png,AMD_21,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (21)/Image (31).png,AMD Part1/AMD (21)/Image (31).png,AMD_21,1,0,0,1,0,1,0,0,0,11
+Images_Automatic/AMD Part1/AMD (21)/Image (36).png,AMD Part1/AMD (21)/Image (36).png,AMD_21,1,0,0,1,0,0,0,0,0,6
+Images_Automatic/AMD Part1/AMD (21)/Image (39).png,AMD Part1/AMD (21)/Image (39).png,AMD_21,0,0,0,1,0,1,0,1,0,5
+Images_Automatic/AMD Part1/AMD (21)/Image (49).png,AMD Part1/AMD (21)/Image (49).png,AMD_21,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (21)/Image (56).png,AMD Part1/AMD (21)/Image (56).png,AMD_21,0,0,0,0,0,1,0,0,0,1
+Images_Automatic/AMD Part1/AMD (21)/Image (59).png,AMD Part1/AMD (21)/Image (59).png,AMD_21,0,0,0,0,0,1,0,0,0,2
+Images_Automatic/AMD Part1/AMD (21)/Image (61).png,AMD Part1/AMD (21)/Image (61).png,AMD_21,0,0,0,0,0,1,0,0,0,2
+Images_Automatic/AMD Part1/AMD (21)/Image (64).png,AMD Part1/AMD (21)/Image (64).png,AMD_21,0,0,0,0,0,1,0,0,0,2
+Images_Automatic/AMD Part1/AMD (21)/Image (8).png,AMD Part1/AMD (21)/Image (8).png,AMD_21,0,0,0,1,0,1,0,0,0,7
+Images_Manual/AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 23.png,AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 23.png,AMD_24,0,0,0,1,0,0,1,0,0,8
+Images_Manual/AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 26.png,AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 26.png,AMD_24,0,0,0,1,0,0,1,0,0,8
+Images_Manual/AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 27.png,AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 27.png,AMD_24,0,0,0,1,0,0,1,1,0,14
+Images_Manual/AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 28.png,AMD Part1/AMD (24).E2E/2- 25- 2017 5- 17- 27 PM/Image 28.png,AMD_24,0,0,0,1,0,0,1,0,0,11
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 13.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 13.png,AMD_25,0,0,0,0,1,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 14.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 14.png,AMD_25,0,0,1,1,0,1,0,1,0,12
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 15.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 15.png,AMD_25,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 16.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 16.png,AMD_25,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 17.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 17.png,AMD_25,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 18.png,AMD Part1/AMD (25).E2E/2- 25- 2017 5- 21- 35 PM/Image 18.png,AMD_25,0,0,0,0,0,1,0,1,0,5
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 13.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 13.png,AMD_26,0,0,0,0,0,0,0,1,0,1
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 14.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 14.png,AMD_26,0,0,0,1,0,0,0,0,1,4
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 15.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 15.png,AMD_26,0,0,0,0,0,0,0,1,1,4
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 16.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 16.png,AMD_26,0,0,0,0,0,0,0,0,1,4
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 17.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 17.png,AMD_26,0,0,0,0,0,0,0,1,1,3
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 25.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 25.png,AMD_26,0,0,0,1,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 30.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 30.png,AMD_26,0,0,0,1,0,0,0,1,0,7
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 31.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 31.png,AMD_26,0,0,0,1,0,0,0,1,0,7
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 32.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 32.png,AMD_26,0,0,0,1,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 38.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 38.png,AMD_26,0,0,0,1,0,0,0,1,0,3
+Images_Manual/AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 41.png,AMD Part1/AMD (26).E2E/2- 25- 2017 5- 23- 01 PM/Image 41.png,AMD_26,0,0,0,0,0,0,1,0,0,1
+Images_Automatic/AMD Part1/AMD (26)/Image (10).png,AMD Part1/AMD (26)/Image (10).png,AMD_26,0,0,0,1,0,0,0,1,0,6
+Images_Automatic/AMD Part1/AMD (26)/Image (14).png,AMD Part1/AMD (26)/Image (14).png,AMD_26,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (26)/Image (23).png,AMD Part1/AMD (26)/Image (23).png,AMD_26,0,0,0,1,0,0,0,1,0,11
+Images_Automatic/AMD Part1/AMD (26)/Image (28).png,AMD Part1/AMD (26)/Image (28).png,AMD_26,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (26)/Image (33).png,AMD Part1/AMD (26)/Image (33).png,AMD_26,0,0,0,1,0,1,0,1,0,19
+Images_Automatic/AMD Part1/AMD (26)/Image (36).png,AMD Part1/AMD (26)/Image (36).png,AMD_26,0,0,0,1,0,0,0,1,0,8
+Images_Automatic/AMD Part1/AMD (26)/Image (4).png,AMD Part1/AMD (26)/Image (4).png,AMD_26,0,0,0,1,0,0,0,0,0,6
+Images_Automatic/AMD Part1/AMD (26)/Image (7).png,AMD Part1/AMD (26)/Image (7).png,AMD_26,0,0,0,1,0,0,0,1,0,9
+Images_Manual/AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 10.png,AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 10.png,AMD_27,0,0,0,0,0,1,0,1,0,17
+Images_Manual/AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 11.png,AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 11.png,AMD_27,0,0,0,1,0,0,0,1,1,22
+Images_Manual/AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 9.png,AMD Part1/AMD (27).E2E/2- 25- 2017 8- 35- 28 PM/Image 9.png,AMD_27,0,0,0,0,0,0,0,1,0,29
+Images_Manual/AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 10.png,AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 10.png,AMD_28,0,0,0,1,0,0,0,0,1,4
+Images_Manual/AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 11.png,AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 11.png,AMD_28,0,0,0,1,0,0,0,0,0,2
+Images_Manual/AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 12.png,AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 12.png,AMD_28,1,0,0,0,0,1,0,1,0,4
+Images_Manual/AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 19.png,AMD Part1/AMD (28).E2E/2- 25- 2017 8- 37- 13 PM/Image 19.png,AMD_28,1,0,0,0,0,1,0,0,0,3
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 10.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 10.png,AMD_3,1,0,0,0,0,0,0,0,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 11.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 11.png,AMD_3,1,0,0,1,0,0,0,0,0,5
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 12.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 12.png,AMD_3,1,0,0,0,0,0,0,0,0,9
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 13.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 13.png,AMD_3,1,0,0,0,0,0,0,0,0,9
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 14.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 14.png,AMD_3,1,0,0,0,0,0,0,0,0,5
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 15.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 15.png,AMD_3,1,0,0,0,0,0,0,1,0,5
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 16.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 16.png,AMD_3,1,0,0,1,0,0,0,0,0,7
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 17.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 17.png,AMD_3,1,0,0,1,0,0,0,1,1,18
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 18.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 18.png,AMD_3,1,0,0,1,0,0,0,1,0,21
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 19.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 19.png,AMD_3,1,0,0,1,0,1,0,1,0,23
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 2.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 2.png,AMD_3,0,0,0,0,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 27.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 27.png,AMD_3,1,0,0,1,0,0,0,1,1,24
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 28.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 28.png,AMD_3,1,0,0,1,0,0,0,1,1,23
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 29.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 29.png,AMD_3,1,0,0,1,0,0,0,1,1,24
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 3.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 3.png,AMD_3,0,0,0,0,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 30.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 30.png,AMD_3,1,0,0,1,0,0,0,1,1,25
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 35.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 35.png,AMD_3,1,0,0,1,0,0,1,1,1,19
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 4.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 4.png,AMD_3,0,0,0,0,0,0,0,1,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 5.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 5.png,AMD_3,1,0,0,0,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 56.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 56.png,AMD_3,1,0,0,0,0,0,0,0,0,2
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 57.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 57.png,AMD_3,1,0,0,0,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 58.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 58.png,AMD_3,1,0,0,0,0,0,0,0,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 59.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 59.png,AMD_3,1,0,0,0,0,0,0,0,0,4
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 6.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 6.png,AMD_3,1,0,0,1,0,0,0,1,1,18
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 7.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 7.png,AMD_3,1,0,0,1,0,1,0,1,1,19
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 8.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 8.png,AMD_3,1,0,0,1,0,1,0,1,1,15
+Images_Manual/AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 9.png,AMD Part1/AMD (3).E2E/2- 25- 2017 9- 13- 55 PM/Image 9.png,AMD_3,1,0,0,0,0,1,0,1,1,17
+Images_Automatic/AMD Part1/AMD (3)/Image (14).png,AMD Part1/AMD (3)/Image (14).png,AMD_3,0,0,0,1,0,1,0,0,0,2
+Images_Automatic/AMD Part1/AMD (3)/Image (16).png,AMD Part1/AMD (3)/Image (16).png,AMD_3,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (3)/Image (18).png,AMD Part1/AMD (3)/Image (18).png,AMD_3,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/AMD Part1/AMD (3)/Image (20).png,AMD Part1/AMD (3)/Image (20).png,AMD_3,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/AMD Part1/AMD (3)/Image (21).png,AMD Part1/AMD (3)/Image (21).png,AMD_3,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/AMD Part1/AMD (3)/Image (26).png,AMD Part1/AMD (3)/Image (26).png,AMD_3,0,0,0,1,0,0,0,1,0,5
+Images_Automatic/AMD Part1/AMD (3)/Image (28).png,AMD Part1/AMD (3)/Image (28).png,AMD_3,0,0,0,0,0,0,0,1,1,6
+Images_Automatic/AMD Part1/AMD (3)/Image (30).png,AMD Part1/AMD (3)/Image (30).png,AMD_3,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/AMD Part1/AMD (3)/Image (35).png,AMD Part1/AMD (3)/Image (35).png,AMD_3,0,0,0,0,0,0,0,1,0,2
+Images_Automatic/AMD Part1/AMD (3)/Image (38).png,AMD Part1/AMD (3)/Image (38).png,AMD_3,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 10.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 10.png,AMD_30,0,0,0,1,0,0,0,1,0,6
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 16.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 16.png,AMD_30,0,0,0,1,0,0,1,1,0,6
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 17.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 17.png,AMD_30,0,0,0,1,0,0,0,1,0,6
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 24.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 24.png,AMD_30,0,0,0,1,0,0,0,1,0,10
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 25.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 25.png,AMD_30,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 27.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 27.png,AMD_30,0,0,0,1,0,0,0,1,0,12
+Images_Automatic/AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 9.png,AMD Part1/AMD (30).E2E/2- 25- 2017 8- 40- 33 PM/Image 9.png,AMD_30,0,0,0,1,0,0,1,1,0,8
+Images_Automatic/AMD Part1/AMD (30)/Image (22).png,AMD Part1/AMD (30)/Image (22).png,AMD_30,0,0,0,0,0,1,0,1,0,10
+Images_Automatic/AMD Part1/AMD (30)/Image (26).png,AMD Part1/AMD (30)/Image (26).png,AMD_30,0,0,0,0,0,1,0,1,0,5
+Images_Automatic/AMD Part1/AMD (30)/Image (29).png,AMD Part1/AMD (30)/Image (29).png,AMD_30,0,0,0,1,0,1,0,1,0,8
+Images_Automatic/AMD Part1/AMD (30)/Image (31).png,AMD Part1/AMD (30)/Image (31).png,AMD_30,0,0,1,0,0,1,0,0,0,7
+Images_Manual/AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 13.png,AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 13.png,AMD_31,0,0,0,1,0,0,1,1,0,6
+Images_Manual/AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 15.png,AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 15.png,AMD_31,0,0,0,1,0,0,0,1,1,5
+Images_Manual/AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 16.png,AMD Part1/AMD (31).E2E/2- 25- 2017 8- 43- 15 PM/Image 16.png,AMD_31,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 10.png,AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 10.png,AMD_32,0,0,0,0,0,0,0,1,1,4
+Images_Automatic/AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 13.png,AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 13.png,AMD_32,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 7.png,AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 7.png,AMD_32,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 9.png,AMD Part1/AMD (32).E2E/2- 25- 2017 8- 45- 16 PM/Image 9.png,AMD_32,0,0,0,1,0,0,0,1,1,4
+Images_Automatic/AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 20.png,AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 20.png,AMD_33,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 22.png,AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 22.png,AMD_33,0,0,0,1,1,0,0,0,0,3
+Images_Automatic/AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 24.png,AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 24.png,AMD_33,0,1,0,0,1,0,0,0,0,9
+Images_Automatic/AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 26.png,AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 26.png,AMD_33,0,1,0,1,1,0,0,0,0,9
+Images_Automatic/AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 27.png,AMD Part1/AMD (33).E2E/2- 25- 2017 8- 47- 14 PM/Image 27.png,AMD_33,0,0,0,0,1,0,0,0,0,4
+Images_Manual/AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 12.png,AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 12.png,AMD_34,0,0,0,1,1,0,0,1,0,13
+Images_Manual/AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 14.png,AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 14.png,AMD_34,0,0,0,1,1,0,0,1,0,15
+Images_Manual/AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 16.png,AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 16.png,AMD_34,0,0,0,1,0,0,0,1,0,9
+Images_Manual/AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 31.png,AMD Part1/AMD (34).E2E/2- 25- 2017 8- 59- 29 PM/Image 31.png,AMD_34,0,0,0,1,0,0,0,0,0,3
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 11.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 11.png,AMD_35,0,0,0,1,0,0,0,1,0,8
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 16.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 16.png,AMD_35,0,0,0,1,0,0,0,1,0,3
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 20.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 20.png,AMD_35,0,0,0,1,0,0,0,0,0,10
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 22.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 22.png,AMD_35,0,0,0,1,0,0,0,0,0,6
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 23.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 23.png,AMD_35,0,0,0,1,0,0,0,1,0,6
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 24.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 24.png,AMD_35,0,0,0,1,0,0,0,0,0,5
+Images_Manual/AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 5.png,AMD Part1/AMD (35).E2E/2- 25- 2017 9- 00- 52 PM/Image 5.png,AMD_35,0,0,0,1,0,0,1,0,0,4
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 13.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 13.png,AMD_4,0,0,0,1,0,0,0,1,1,18
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 15.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 15.png,AMD_4,0,0,1,1,0,0,1,1,1,15
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 16.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 16.png,AMD_4,0,0,1,1,0,0,1,1,0,14
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 17.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 17.png,AMD_4,0,0,0,1,0,1,0,1,1,10
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 21.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 21.png,AMD_4,0,0,1,1,0,0,0,1,0,6
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 23.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 23.png,AMD_4,0,0,1,1,0,0,0,0,0,3
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 24.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 24.png,AMD_4,0,0,1,1,0,0,0,0,0,16
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 25.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 25.png,AMD_4,0,0,1,1,0,1,0,1,0,13
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 26.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 26.png,AMD_4,0,0,0,1,0,0,1,1,0,11
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 27.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 27.png,AMD_4,0,0,0,1,0,0,0,1,1,17
+Images_Automatic/AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 29.png,AMD Part1/AMD (4).E2E/2- 25- 2017 9- 15- 59 PM/Image 29.png,AMD_4,0,0,0,1,0,0,0,1,0,2
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 12.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 12.png,AMD_5,0,0,0,1,0,0,0,1,0,2
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 13.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 13.png,AMD_5,0,0,0,0,0,1,0,0,0,1
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 14.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 14.png,AMD_5,0,0,0,1,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 17.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 17.png,AMD_5,0,0,1,1,0,0,0,1,0,4
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 18.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 18.png,AMD_5,0,0,1,1,0,0,1,1,1,7
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 19.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 19.png,AMD_5,0,0,1,1,1,1,1,1,0,10
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 20.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 20.png,AMD_5,0,0,1,1,1,0,0,0,1,9
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 21.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 21.png,AMD_5,0,0,0,1,0,0,1,0,0,4
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 4.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 4.png,AMD_5,0,0,0,1,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 5.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 5.png,AMD_5,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 7.png,AMD Part1/AMD (5).E2E/2- 25- 2017 9- 17- 04 PM/Image 7.png,AMD_5,0,0,0,1,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (5)/Image (20).png,AMD Part1/AMD (5)/Image (20).png,AMD_5,0,0,0,0,0,1,0,1,0,6
+Images_Automatic/AMD Part1/AMD (5)/Image (22).png,AMD Part1/AMD (5)/Image (22).png,AMD_5,0,1,0,1,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (5)/Image (23).png,AMD Part1/AMD (5)/Image (23).png,AMD_5,0,1,0,1,0,1,0,1,0,6
+Images_Automatic/AMD Part1/AMD (5)/Image (25).png,AMD Part1/AMD (5)/Image (25).png,AMD_5,0,1,0,1,1,0,0,1,0,11
+Images_Automatic/AMD Part1/AMD (5)/Image (26).png,AMD Part1/AMD (5)/Image (26).png,AMD_5,0,1,0,1,1,0,0,1,0,11
+Images_Automatic/AMD Part1/AMD (5)/Image (27).png,AMD Part1/AMD (5)/Image (27).png,AMD_5,0,0,0,0,0,1,0,1,0,6
+Images_Automatic/AMD Part1/AMD (5)/Image (28).png,AMD Part1/AMD (5)/Image (28).png,AMD_5,0,0,0,0,0,1,0,1,0,5
+Images_Automatic/AMD Part1/AMD (5)/Image (29).png,AMD Part1/AMD (5)/Image (29).png,AMD_5,0,0,0,0,0,1,0,1,0,8
+Images_Automatic/AMD Part1/AMD (5)/Image (30).png,AMD Part1/AMD (5)/Image (30).png,AMD_5,0,0,0,0,0,1,0,1,0,9
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 10.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 10.png,AMD_6,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 11.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 11.png,AMD_6,1,0,0,1,0,0,0,1,1,13
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 12.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 12.png,AMD_6,1,0,0,1,1,0,0,1,1,13
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 13.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 13.png,AMD_6,0,0,0,1,0,0,0,1,1,10
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 18.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 18.png,AMD_6,0,0,0,1,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 19.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 19.png,AMD_6,0,0,0,1,0,0,0,0,0,9
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 8.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 8.png,AMD_6,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 9.png,AMD Part1/AMD (6).E2E/2- 25- 2017 9- 19- 11 PM/Image 9.png,AMD_6,0,0,0,0,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (6)/Image (10).png,AMD Part1/AMD (6)/Image (10).png,AMD_6,0,0,0,1,0,1,0,0,0,7
+Images_Automatic/AMD Part1/AMD (6)/Image (11).png,AMD Part1/AMD (6)/Image (11).png,AMD_6,0,0,0,0,0,1,1,0,0,10
+Images_Automatic/AMD Part1/AMD (6)/Image (13).png,AMD Part1/AMD (6)/Image (13).png,AMD_6,0,0,0,0,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (6)/Image (16).png,AMD Part1/AMD (6)/Image (16).png,AMD_6,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (6)/Image (20).png,AMD Part1/AMD (6)/Image (20).png,AMD_6,0,0,0,1,0,1,0,0,0,6
+Images_Automatic/AMD Part1/AMD (6)/Image (23).png,AMD Part1/AMD (6)/Image (23).png,AMD_6,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (6)/Image (29).png,AMD Part1/AMD (6)/Image (29).png,AMD_6,0,0,0,1,0,1,0,0,0,7
+Images_Automatic/AMD Part1/AMD (6)/Image (30).png,AMD Part1/AMD (6)/Image (30).png,AMD_6,0,0,0,0,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (6)/Image (31).png,AMD Part1/AMD (6)/Image (31).png,AMD_6,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (6)/Image (32).png,AMD Part1/AMD (6)/Image (32).png,AMD_6,0,0,0,1,1,0,0,0,0,4
+Images_Automatic/AMD Part1/AMD (6)/Image (6).png,AMD Part1/AMD (6)/Image (6).png,AMD_6,0,0,0,1,0,1,0,0,0,12
+Images_Automatic/AMD Part1/AMD (6)/Image (8).png,AMD Part1/AMD (6)/Image (8).png,AMD_6,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 10.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 10.png,AMD_7,0,0,0,1,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 11.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 11.png,AMD_7,0,0,0,1,0,0,0,1,1,10
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 12.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 12.png,AMD_7,0,0,0,1,0,0,0,1,1,3
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 13.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 13.png,AMD_7,0,0,0,1,0,0,0,1,1,9
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 14.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 14.png,AMD_7,0,0,0,1,0,0,0,1,0,7
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 17.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 17.png,AMD_7,0,0,0,1,0,0,0,0,0,6
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 18.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 18.png,AMD_7,0,0,0,0,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 19.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 19.png,AMD_7,0,0,0,1,0,1,0,0,0,8
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 4.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 4.png,AMD_7,0,0,0,1,0,0,0,0,0,1
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 7.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 7.png,AMD_7,0,0,0,0,0,1,0,0,0,1
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 8.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 8.png,AMD_7,0,0,0,0,0,1,0,0,0,2
+Images_Automatic/AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 9.png,AMD Part1/AMD (7).E2E/2- 25- 2017 9- 20- 27 PM/Image 9.png,AMD_7,0,0,0,1,0,1,0,0,0,3
+Images_Automatic/AMD Part1/AMD (7)/Image (10).png,AMD Part1/AMD (7)/Image (10).png,AMD_7,0,0,0,1,0,1,1,0,0,8
+Images_Automatic/AMD Part1/AMD (7)/Image (12).png,AMD Part1/AMD (7)/Image (12).png,AMD_7,0,0,0,0,0,1,1,0,0,9
+Images_Automatic/AMD Part1/AMD (7)/Image (14).png,AMD Part1/AMD (7)/Image (14).png,AMD_7,0,0,0,1,0,0,1,0,0,9
+Images_Automatic/AMD Part1/AMD (7)/Image (16).png,AMD Part1/AMD (7)/Image (16).png,AMD_7,0,0,1,1,0,1,1,0,0,9
+Images_Automatic/AMD Part1/AMD (7)/Image (17).png,AMD Part1/AMD (7)/Image (17).png,AMD_7,0,0,0,0,0,1,1,1,0,12
+Images_Automatic/AMD Part1/AMD (7)/Image (18).png,AMD Part1/AMD (7)/Image (18).png,AMD_7,0,0,0,1,0,0,1,1,0,7
+Images_Automatic/AMD Part1/AMD (7)/Image (20).png,AMD Part1/AMD (7)/Image (20).png,AMD_7,0,0,0,0,0,1,1,1,0,7
+Images_Automatic/AMD Part1/AMD (7)/Image (22).png,AMD Part1/AMD (7)/Image (22).png,AMD_7,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (7)/Image (24).png,AMD Part1/AMD (7)/Image (24).png,AMD_7,0,0,0,0,0,1,1,0,0,11
+Images_Automatic/AMD Part1/AMD (7)/Image (26).png,AMD Part1/AMD (7)/Image (26).png,AMD_7,0,0,0,1,1,1,0,0,0,12
+Images_Automatic/AMD Part1/AMD (7)/Image (27).png,AMD Part1/AMD (7)/Image (27).png,AMD_7,0,0,0,1,0,1,1,0,0,10
+Images_Automatic/AMD Part1/AMD (7)/Image (3).png,AMD Part1/AMD (7)/Image (3).png,AMD_7,0,0,0,1,0,1,0,0,0,18
+Images_Automatic/AMD Part1/AMD (7)/Image (5).png,AMD Part1/AMD (7)/Image (5).png,AMD_7,0,0,0,1,0,1,0,0,0,9
+Images_Automatic/AMD Part1/AMD (7)/Image (7).png,AMD Part1/AMD (7)/Image (7).png,AMD_7,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (7)/Image (9).png,AMD Part1/AMD (7)/Image (9).png,AMD_7,0,0,0,1,0,1,1,0,0,14
+Images_Manual/AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 1.png,AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 1.png,AMD_8,0,0,0,0,0,1,0,1,1,3
+Images_Manual/AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 18.png,AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 18.png,AMD_8,0,0,0,1,0,0,1,0,0,3
+Images_Manual/AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 19.png,AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 19.png,AMD_8,0,0,0,1,0,0,1,0,0,2
+Images_Manual/AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 2.png,AMD Part1/AMD (8).E2E/2- 25- 2017 9- 21- 50 PM/Image 2.png,AMD_8,0,0,0,0,0,1,0,1,1,3
+Images_Automatic/AMD Part1/AMD (8)/Image (13).png,AMD Part1/AMD (8)/Image (13).png,AMD_8,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part1/AMD (8)/Image (14).png,AMD Part1/AMD (8)/Image (14).png,AMD_8,0,0,0,1,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (8)/Image (15).png,AMD Part1/AMD (8)/Image (15).png,AMD_8,0,0,0,1,0,1,1,0,0,10
+Images_Automatic/AMD Part1/AMD (8)/Image (16).png,AMD Part1/AMD (8)/Image (16).png,AMD_8,0,0,0,1,0,1,0,0,0,7
+Images_Automatic/AMD Part1/AMD (8)/Image (17).png,AMD Part1/AMD (8)/Image (17).png,AMD_8,0,0,0,1,1,1,0,1,0,9
+Images_Automatic/AMD Part1/AMD (8)/Image (18).png,AMD Part1/AMD (8)/Image (18).png,AMD_8,0,0,0,1,0,1,0,1,0,13
+Images_Automatic/AMD Part1/AMD (8)/Image (20).png,AMD Part1/AMD (8)/Image (20).png,AMD_8,1,0,0,1,0,1,0,1,0,7
+Images_Automatic/AMD Part1/AMD (8)/Image (22).png,AMD Part1/AMD (8)/Image (22).png,AMD_8,0,0,0,1,0,1,1,0,0,7
+Images_Automatic/AMD Part1/AMD (8)/Image (23).png,AMD Part1/AMD (8)/Image (23).png,AMD_8,1,0,1,0,0,1,0,0,0,6
+Images_Automatic/AMD Part1/AMD (8)/Image (24).png,AMD Part1/AMD (8)/Image (24).png,AMD_8,0,0,0,0,0,1,1,0,0,10
+Images_Automatic/AMD Part1/AMD (8)/Image (25).png,AMD Part1/AMD (8)/Image (25).png,AMD_8,0,0,0,0,0,0,1,0,0,7
+Images_Automatic/AMD Part1/AMD (8)/Image (31).png,AMD Part1/AMD (8)/Image (31).png,AMD_8,0,0,0,0,0,1,0,0,0,5
+Images_Automatic/AMD Part1/AMD (8)/Image (9).png,AMD Part1/AMD (8)/Image (9).png,AMD_8,0,0,0,1,1,1,0,0,0,10
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 10.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 10.png,AMD_9,0,0,0,1,1,1,0,1,1,17
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 11.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 11.png,AMD_9,0,0,0,1,0,1,0,1,1,11
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 12.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 12.png,AMD_9,0,0,0,1,0,1,0,1,1,9
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 13.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 13.png,AMD_9,0,0,0,1,0,1,0,1,0,10
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 14.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 14.png,AMD_9,0,0,0,1,0,1,0,1,1,11
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 15.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 15.png,AMD_9,0,0,0,1,0,1,0,1,0,7
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 7.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 7.png,AMD_9,0,0,0,0,0,1,0,0,0,1
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 8.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 8.png,AMD_9,0,0,0,0,1,1,0,0,0,2
+Images_Manual/AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 9.png,AMD Part1/AMD (9).E2E/2- 25- 2017 9- 25- 22 PM/Image 9.png,AMD_9,0,0,0,1,0,1,1,1,0,8
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 30.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 30.png,AMD_36,0,0,1,1,0,0,1,1,1,9
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 31.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 31.png,AMD_36,0,0,0,1,1,0,0,1,0,8
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 38.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 38.png,AMD_36,0,0,0,1,0,0,0,0,1,8
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 40.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 40.png,AMD_36,0,0,0,1,0,0,0,1,1,10
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 42.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 42.png,AMD_36,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 44.png,AMD Part2/AMD (36).E2E/2- 25- 2017 9- 02- 29 PM/Image 44.png,AMD_36,0,0,0,1,0,0,0,0,0,7
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 10.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 10.png,AMD_37,0,0,1,1,0,0,0,1,0,9
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 11.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 11.png,AMD_37,0,0,1,1,0,0,0,1,0,9
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 12.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 12.png,AMD_37,0,0,1,1,0,0,0,1,0,4
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 14.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 14.png,AMD_37,0,0,0,1,0,0,0,0,0,7
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 17.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 17.png,AMD_37,0,0,0,1,0,0,0,1,0,12
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 18.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 18.png,AMD_37,0,0,0,1,0,0,0,1,0,6
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 2.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 2.png,AMD_37,0,0,0,1,0,0,0,1,0,2
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 5.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 5.png,AMD_37,0,0,0,0,0,0,0,1,0,3
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 6.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 6.png,AMD_37,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 7.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 7.png,AMD_37,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 8.png,AMD Part2/AMD (37).E2E/2- 25- 2017 9- 04- 26 PM/Image 8.png,AMD_37,0,0,0,1,0,0,0,1,0,8
+Images_Automatic/AMD Part2/AMD (38).E2E/2- 25- 2017 9- 05- 09 PM/Image 22.png,AMD Part2/AMD (38).E2E/2- 25- 2017 9- 05- 09 PM/Image 22.png,AMD_38,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/AMD Part2/AMD (38).E2E/2- 25- 2017 9- 05- 09 PM/Image 24.png,AMD Part2/AMD (38).E2E/2- 25- 2017 9- 05- 09 PM/Image 24.png,AMD_38,0,0,0,1,0,0,0,1,0,7
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 10.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 10.png,AMD_40,0,0,0,0,0,0,0,1,0,1
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 11.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 11.png,AMD_40,0,0,0,0,0,0,0,1,0,2
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 12.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 12.png,AMD_40,0,0,0,0,0,0,0,1,1,2
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 17.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 17.png,AMD_40,0,0,0,0,1,0,1,0,0,2
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 5.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 5.png,AMD_40,0,0,0,0,0,0,0,1,0,1
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 7.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 7.png,AMD_40,0,0,0,1,0,0,0,1,0,5
+Images_Manual/AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 9.png,AMD Part2/AMD (40).E2E/2- 25- 2017 9- 08- 13 PM/Image 9.png,AMD_40,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 10.png,AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 10.png,AMD_41,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 11.png,AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 11.png,AMD_41,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 12.png,AMD Part2/AMD (41).E2E/2- 25- 2017 4- 12- 39 PM/Image 12.png,AMD_41,1,0,0,0,0,0,0,0,0,1
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 15.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 15.png,AMD_42,0,0,1,1,0,0,0,1,0,5
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 18.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 18.png,AMD_42,0,0,1,1,0,0,1,0,0,8
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 20.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 20.png,AMD_42,0,0,1,1,1,0,0,1,0,15
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 22.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 22.png,AMD_42,0,0,1,1,0,0,0,1,0,9
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 8.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 8.png,AMD_42,0,0,1,0,0,0,0,1,0,2
+Images_Automatic/AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 9.png,AMD Part2/AMD (42).E2E/2- 25- 2017 4- 16- 04 PM/Image 9.png,AMD_42,0,0,1,1,0,0,0,0,0,5
+Images_Automatic/AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 11.png,AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 11.png,AMD_43,0,0,0,1,0,0,0,1,0,2
+Images_Automatic/AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 13.png,AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 13.png,AMD_43,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 14.png,AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 14.png,AMD_43,0,0,0,1,0,0,1,1,0,5
+Images_Automatic/AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 15.png,AMD Part2/AMD (43).E2E/2- 25- 2017 4- 18- 36 PM/Image 15.png,AMD_43,0,0,0,1,0,0,0,0,0,5
+Images_Automatic/AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 25.png,AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 25.png,AMD_44,0,0,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 26.png,AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 26.png,AMD_44,0,0,1,0,0,1,0,0,0,5
+Images_Automatic/AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 28.png,AMD Part2/AMD (44).E2E/2- 25- 2017 4- 31- 15 PM/Image 28.png,AMD_44,0,0,1,0,0,1,0,0,0,4
+Images_Automatic/AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 6.png,AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 6.png,AMD_45,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 7.png,AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 7.png,AMD_45,0,0,0,0,0,1,0,0,0,10
+Images_Automatic/AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 8.png,AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 8.png,AMD_45,0,0,0,1,0,1,0,0,0,10
+Images_Automatic/AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 9.png,AMD Part2/AMD (45).E2E/2- 25- 2017 4- 33- 53 PM/Image 9.png,AMD_45,0,0,0,1,0,1,0,0,0,6
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 12.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 12.png,AMD_47,0,0,0,1,1,0,0,1,0,11
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 14.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 14.png,AMD_47,0,0,0,1,0,0,0,1,1,5
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 16.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 16.png,AMD_47,0,0,0,1,0,0,0,1,0,6
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 19.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 19.png,AMD_47,0,0,0,1,1,0,0,1,1,5
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 20.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 20.png,AMD_47,0,0,0,0,1,0,1,1,1,7
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 21.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 21.png,AMD_47,0,0,1,0,0,0,1,1,0,6
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 26.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 26.png,AMD_47,0,0,0,1,0,0,1,1,0,6
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 28.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 28.png,AMD_47,0,0,0,1,0,0,0,1,0,9
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 29.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 29.png,AMD_47,0,0,0,1,0,0,1,1,0,5
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 31.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 31.png,AMD_47,0,0,0,1,0,0,0,1,0,5
+Images_Automatic/AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 8.png,AMD Part2/AMD (47).E2E/2- 25- 2017 4- 40- 57 PM/Image 8.png,AMD_47,0,0,0,1,0,0,1,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-100580-1.png,DRUSEN/DRUSEN-100580-1.png,DRUSEN_100580,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/DRUSEN/DRUSEN-103885-1.png,DRUSEN/DRUSEN-103885-1.png,DRUSEN_103885,0,0,0,0,0,0,1,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-103885-2.png,DRUSEN/DRUSEN-103885-2.png,DRUSEN_103885,0,0,0,0,0,0,1,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-103885-4.png,DRUSEN/DRUSEN-103885-4.png,DRUSEN_103885,0,0,0,0,0,0,1,1,0,14
+Images_Automatic/DRUSEN/DRUSEN-142234-1.png,DRUSEN/DRUSEN-142234-1.png,DRUSEN_142234,1,0,0,1,0,0,1,1,0,11
+Images_Automatic/DRUSEN/DRUSEN-142234-10.png,DRUSEN/DRUSEN-142234-10.png,DRUSEN_142234,0,0,0,1,0,0,0,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-142234-11.png,DRUSEN/DRUSEN-142234-11.png,DRUSEN_142234,0,0,0,1,0,0,0,1,0,5
+Images_Automatic/DRUSEN/DRUSEN-142234-13.png,DRUSEN/DRUSEN-142234-13.png,DRUSEN_142234,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-142234-14.png,DRUSEN/DRUSEN-142234-14.png,DRUSEN_142234,0,0,0,1,0,0,1,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-142234-15.png,DRUSEN/DRUSEN-142234-15.png,DRUSEN_142234,0,0,0,1,0,0,1,0,0,5
+Images_Automatic/DRUSEN/DRUSEN-142234-16.png,DRUSEN/DRUSEN-142234-16.png,DRUSEN_142234,0,0,0,1,0,0,0,0,0,7
+Images_Automatic/DRUSEN/DRUSEN-142234-17.png,DRUSEN/DRUSEN-142234-17.png,DRUSEN_142234,0,0,0,1,0,0,0,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-142234-18.png,DRUSEN/DRUSEN-142234-18.png,DRUSEN_142234,0,0,0,1,0,0,1,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-142234-19.png,DRUSEN/DRUSEN-142234-19.png,DRUSEN_142234,0,0,0,0,0,0,1,0,0,4
+Images_Automatic/DRUSEN/DRUSEN-142234-20.png,DRUSEN/DRUSEN-142234-20.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-142234-21.png,DRUSEN/DRUSEN-142234-21.png,DRUSEN_142234,0,0,0,0,0,0,1,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-142234-22.png,DRUSEN/DRUSEN-142234-22.png,DRUSEN_142234,0,0,0,0,0,0,1,1,0,5
+Images_Automatic/DRUSEN/DRUSEN-142234-23.png,DRUSEN/DRUSEN-142234-23.png,DRUSEN_142234,0,0,0,0,0,0,1,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-142234-25.png,DRUSEN/DRUSEN-142234-25.png,DRUSEN_142234,0,0,0,0,0,0,1,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-142234-26.png,DRUSEN/DRUSEN-142234-26.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,2
+Images_Automatic/DRUSEN/DRUSEN-142234-27.png,DRUSEN/DRUSEN-142234-27.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/DRUSEN/DRUSEN-142234-4.png,DRUSEN/DRUSEN-142234-4.png,DRUSEN_142234,0,0,0,1,0,0,0,1,0,5
+Images_Automatic/DRUSEN/DRUSEN-142234-5.png,DRUSEN/DRUSEN-142234-5.png,DRUSEN_142234,0,0,0,1,0,0,1,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-142234-6.png,DRUSEN/DRUSEN-142234-6.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-142234-7.png,DRUSEN/DRUSEN-142234-7.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-142234-8.png,DRUSEN/DRUSEN-142234-8.png,DRUSEN_142234,0,0,0,0,0,0,1,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-142234-9.png,DRUSEN/DRUSEN-142234-9.png,DRUSEN_142234,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-163081-1.png,DRUSEN/DRUSEN-163081-1.png,DRUSEN_163081,0,0,0,1,1,0,1,1,1,25
+Images_Automatic/DRUSEN/DRUSEN-163081-4.png,DRUSEN/DRUSEN-163081-4.png,DRUSEN_163081,0,0,0,0,0,0,1,1,1,9
+Images_Automatic/DRUSEN/DRUSEN-163081-5.png,DRUSEN/DRUSEN-163081-5.png,DRUSEN_163081,0,0,0,0,0,0,1,1,1,10
+Images_Automatic/DRUSEN/DRUSEN-163081-6.png,DRUSEN/DRUSEN-163081-6.png,DRUSEN_163081,0,0,0,0,0,0,0,1,1,9
+Images_Automatic/DRUSEN/DRUSEN-163081-7.png,DRUSEN/DRUSEN-163081-7.png,DRUSEN_163081,0,0,0,0,0,0,1,1,1,17
+Images_Automatic/DRUSEN/DRUSEN-190022-1.png,DRUSEN/DRUSEN-190022-1.png,DRUSEN_190022,0,0,0,0,0,0,1,1,0,5
+Images_Automatic/DRUSEN/DRUSEN-190022-2.png,DRUSEN/DRUSEN-190022-2.png,DRUSEN_190022,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-190022-3.png,DRUSEN/DRUSEN-190022-3.png,DRUSEN_190022,0,0,0,0,0,0,0,1,0,2
+Images_Automatic/DRUSEN/DRUSEN-200969-1.png,DRUSEN/DRUSEN-200969-1.png,DRUSEN_200969,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/DRUSEN/DRUSEN-224974-1.png,DRUSEN/DRUSEN-224974-1.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,13
+Images_Automatic/DRUSEN/DRUSEN-224974-11.png,DRUSEN/DRUSEN-224974-11.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,33
+Images_Automatic/DRUSEN/DRUSEN-224974-13.png,DRUSEN/DRUSEN-224974-13.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,12
+Images_Automatic/DRUSEN/DRUSEN-224974-14.png,DRUSEN/DRUSEN-224974-14.png,DRUSEN_224974,0,0,0,0,0,0,1,1,1,26
+Images_Automatic/DRUSEN/DRUSEN-224974-18.png,DRUSEN/DRUSEN-224974-18.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,27
+Images_Automatic/DRUSEN/DRUSEN-224974-2.png,DRUSEN/DRUSEN-224974-2.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,11
+Images_Automatic/DRUSEN/DRUSEN-224974-20.png,DRUSEN/DRUSEN-224974-20.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,16
+Images_Automatic/DRUSEN/DRUSEN-224974-22.png,DRUSEN/DRUSEN-224974-22.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,3
+Images_Automatic/DRUSEN/DRUSEN-224974-23.png,DRUSEN/DRUSEN-224974-23.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-224974-24.png,DRUSEN/DRUSEN-224974-24.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,11
+Images_Automatic/DRUSEN/DRUSEN-224974-25.png,DRUSEN/DRUSEN-224974-25.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,12
+Images_Automatic/DRUSEN/DRUSEN-224974-26.png,DRUSEN/DRUSEN-224974-26.png,DRUSEN_224974,0,0,0,0,0,0,0,1,1,29
+Images_Automatic/DRUSEN/DRUSEN-224974-28.png,DRUSEN/DRUSEN-224974-28.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,20
+Images_Automatic/DRUSEN/DRUSEN-224974-3.png,DRUSEN/DRUSEN-224974-3.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-224974-30.png,DRUSEN/DRUSEN-224974-30.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,23
+Images_Automatic/DRUSEN/DRUSEN-224974-32.png,DRUSEN/DRUSEN-224974-32.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,24
+Images_Automatic/DRUSEN/DRUSEN-224974-34.png,DRUSEN/DRUSEN-224974-34.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,25
+Images_Automatic/DRUSEN/DRUSEN-224974-36.png,DRUSEN/DRUSEN-224974-36.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,11
+Images_Automatic/DRUSEN/DRUSEN-224974-38.png,DRUSEN/DRUSEN-224974-38.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,27
+Images_Automatic/DRUSEN/DRUSEN-224974-5.png,DRUSEN/DRUSEN-224974-5.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,19
+Images_Automatic/DRUSEN/DRUSEN-224974-7.png,DRUSEN/DRUSEN-224974-7.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-224974-9.png,DRUSEN/DRUSEN-224974-9.png,DRUSEN_224974,0,0,0,0,0,0,0,1,0,25
+Images_Automatic/DRUSEN/DRUSEN-228939-1.png,DRUSEN/DRUSEN-228939-1.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,11
+Images_Automatic/DRUSEN/DRUSEN-228939-10.png,DRUSEN/DRUSEN-228939-10.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-228939-11.png,DRUSEN/DRUSEN-228939-11.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,15
+Images_Automatic/DRUSEN/DRUSEN-228939-13.png,DRUSEN/DRUSEN-228939-13.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,18
+Images_Automatic/DRUSEN/DRUSEN-228939-15.png,DRUSEN/DRUSEN-228939-15.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,27
+Images_Automatic/DRUSEN/DRUSEN-228939-17.png,DRUSEN/DRUSEN-228939-17.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,27
+Images_Automatic/DRUSEN/DRUSEN-228939-19.png,DRUSEN/DRUSEN-228939-19.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,20
+Images_Automatic/DRUSEN/DRUSEN-228939-2.png,DRUSEN/DRUSEN-228939-2.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,27
+Images_Automatic/DRUSEN/DRUSEN-228939-21.png,DRUSEN/DRUSEN-228939-21.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,22
+Images_Automatic/DRUSEN/DRUSEN-228939-23.png,DRUSEN/DRUSEN-228939-23.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-228939-25.png,DRUSEN/DRUSEN-228939-25.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,44
+Images_Automatic/DRUSEN/DRUSEN-228939-27.png,DRUSEN/DRUSEN-228939-27.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-228939-29.png,DRUSEN/DRUSEN-228939-29.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,7
+Images_Automatic/DRUSEN/DRUSEN-228939-30.png,DRUSEN/DRUSEN-228939-30.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-228939-31.png,DRUSEN/DRUSEN-228939-31.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-228939-33.png,DRUSEN/DRUSEN-228939-33.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-228939-35.png,DRUSEN/DRUSEN-228939-35.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,14
+Images_Automatic/DRUSEN/DRUSEN-228939-37.png,DRUSEN/DRUSEN-228939-37.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-228939-38.png,DRUSEN/DRUSEN-228939-38.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-228939-39.png,DRUSEN/DRUSEN-228939-39.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-228939-6.png,DRUSEN/DRUSEN-228939-6.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,14
+Images_Automatic/DRUSEN/DRUSEN-228939-8.png,DRUSEN/DRUSEN-228939-8.png,DRUSEN_228939,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-53018-1.png,DRUSEN/DRUSEN-53018-1.png,DRUSEN_53018,0,0,0,0,0,0,0,1,0,7
+Images_Automatic/DRUSEN/DRUSEN-75028-1.png,DRUSEN/DRUSEN-75028-1.png,DRUSEN_75028,1,0,0,0,0,0,0,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-79215-1.png,DRUSEN/DRUSEN-79215-1.png,DRUSEN_79215,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-95633-1.png,DRUSEN/DRUSEN-95633-1.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-95633-10.png,DRUSEN/DRUSEN-95633-10.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,2
+Images_Automatic/DRUSEN/DRUSEN-95633-11.png,DRUSEN/DRUSEN-95633-11.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,1
+Images_Automatic/DRUSEN/DRUSEN-95633-12.png,DRUSEN/DRUSEN-95633-12.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-95633-15.png,DRUSEN/DRUSEN-95633-15.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,7
+Images_Automatic/DRUSEN/DRUSEN-95633-16.png,DRUSEN/DRUSEN-95633-16.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,16
+Images_Automatic/DRUSEN/DRUSEN-95633-18.png,DRUSEN/DRUSEN-95633-18.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-95633-2.png,DRUSEN/DRUSEN-95633-2.png,DRUSEN_95633,0,0,0,0,0,0,1,1,0,32
+Images_Automatic/DRUSEN/DRUSEN-95633-20.png,DRUSEN/DRUSEN-95633-20.png,DRUSEN_95633,0,0,0,0,0,0,1,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-95633-21.png,DRUSEN/DRUSEN-95633-21.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-95633-23.png,DRUSEN/DRUSEN-95633-23.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,6
+Images_Automatic/DRUSEN/DRUSEN-95633-25.png,DRUSEN/DRUSEN-95633-25.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,4
+Images_Automatic/DRUSEN/DRUSEN-95633-4.png,DRUSEN/DRUSEN-95633-4.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,9
+Images_Automatic/DRUSEN/DRUSEN-95633-6.png,DRUSEN/DRUSEN-95633-6.png,DRUSEN_95633,0,0,0,0,0,0,0,1,0,12
+Images_Automatic/DRUSEN/DRUSEN-9800172-27.png,DRUSEN/DRUSEN-9800172-27.png,DRUSEN_9800172,0,0,0,0,0,0,1,1,0,13
+Images_Automatic/DRUSEN/DRUSEN-9837663-5.png,DRUSEN/DRUSEN-9837663-5.png,DRUSEN_9837663,0,0,0,0,0,0,0,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-9861332-8.png,DRUSEN/DRUSEN-9861332-8.png,DRUSEN_9861332,0,0,0,0,0,0,0,1,0,3
+Images_Automatic/DRUSEN/DRUSEN-9884539-23.png,DRUSEN/DRUSEN-9884539-23.png,DRUSEN_9884539,1,0,0,0,0,0,0,1,1,6
+Images_Automatic/DRUSEN/DRUSEN-9884539-8.png,DRUSEN/DRUSEN-9884539-8.png,DRUSEN_9884539,1,0,0,0,0,0,0,1,1,9
+Images_Automatic/DRUSEN/DRUSEN-9894035-3.png,DRUSEN/DRUSEN-9894035-3.png,DRUSEN_9894035,0,0,0,0,0,0,0,1,0,8
+Images_Automatic/DRUSEN/DRUSEN-9894035-36.png,DRUSEN/DRUSEN-9894035-36.png,DRUSEN_9894035,0,0,0,0,0,0,0,1,0,10
+Images_Automatic/DRUSEN/DRUSEN-9928043-3.png,DRUSEN/DRUSEN-9928043-3.png,DRUSEN_9928043,0,0,0,0,0,0,1,1,0,2
