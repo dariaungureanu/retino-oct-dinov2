@@ -41,8 +41,7 @@ pip install -r requirements.txt
 ```
 
 The results in the paper were produced with PyTorch on a single NVIDIA RTX 3090
-(24 GB). A fixed random seed of 42 controls data splits, head initialization,
-and dataloader shuffling, with PyTorch deterministic mode enabled.
+(24 GB). A fixed random seed of 42 controls data splits, head initialization, and dataloader shuffling, with PyTorch deterministic mode enabled (except for the MMRDR-OCT robustness evaluation, which explicitly averages metrics across 5 random seeds).
 
 The backbone is instantiated through `torch.hub` from the public
 `facebookresearch/dinov2` `dinov2_vits14` definition; domain-adapted weights are
@@ -104,8 +103,9 @@ python finetune_octdl/train.py --data_path <OCTDL_Cleaned> \
     --checkpoint <model_final.rank_0.pth> --unfreeze_last_n 2
 
 # MMRDR-OCT — DME severity grading
+# Evaluated for statistical robustness across 5 random seeds (outputs Mean ± SD and 95% CI).
 python finetune_mmrdr/train.py --data_path <MMRDR-OCT> --csv <OCT.csv> \
-    --checkpoint <model_final.rank_0.pth>
+    --checkpoint <model_final.rank_0.pth> --num_workers 2
 
 # Suciu et al. — multi-label DME biomarkers
 python finetune_corina/train.py --data_path <corina_dataset> --csv <corina_metadata.csv> \
