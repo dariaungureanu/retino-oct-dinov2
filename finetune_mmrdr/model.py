@@ -26,7 +26,7 @@ def load_backbone(arch, checkpoint, device):
         print(f"not found: {checkpoint}")
         sys.exit(1)
 
-    ckpt = torch.load(checkpoint, map_location="cpu")
+    ckpt = torch.load(checkpoint, map_location="cpu", weights_only=False)
     print(f"checkpoint: {checkpoint}")
 
     if "model" in ckpt:
