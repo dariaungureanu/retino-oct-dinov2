@@ -1,5 +1,6 @@
 """
 MMRDR-OCT Fine-Tuning - 3-class DME severity grading.
+Modified for Statistical Robustness: Runs 5 random seeds and reports Mean +/- SD.
 
 Single-task version of the OCTDL pipeline.
 Metrics: Accuracy, Balanced Acc, Macro-F1, AUC-ROC, Cohen's Kappa
@@ -24,17 +25,14 @@ Usage:
 
 import argparse
 import os
-import time
 import json
-
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
 from sklearn.metrics import (
     accuracy_score, balanced_accuracy_score, f1_score,
-    classification_report, cohen_kappa_score, roc_auc_score,
-    confusion_matrix,
+    cohen_kappa_score, roc_auc_score, confusion_matrix
 )
 from sklearn.preprocessing import label_binarize
 from torch.optim.lr_scheduler import CosineAnnealingLR, LinearLR, SequentialLR
@@ -50,7 +48,7 @@ import seaborn as sns
 
 from dataset import (
     MMRDRDataset, load_mmrdr_splits, compute_class_weights,
-    get_train_transform, get_eval_transform, CLASS_NAMES,
+    get_train_transform, get_eval_transform, CLASS_NAMES
 )
 from model import MMRDRModel, load_backbone
 
@@ -138,13 +136,12 @@ def run_epoch(model, loader, criterion, device, num_classes,
 
     return avg_loss, metrics
 
-
-def evaluate_test(model, loader, criterion, device, num_classes, out_dir):
+def evaluate_test(model, loader, criterion, device, num_classes, out_dir, seed):
     model.eval()
     all_logits, all_labels = [], []
 
     with torch.no_grad():
-        for images, labels in tqdm(loader, desc="Test Eval", leave=False):
+        for images, labels in tqdm(loader, desc=f"Test Eval (Seed {seed})", leave=False):
             images = images.to(device, non_blocking=True)
             labels = labels.to(device, non_blocking=True)
             logits = model(images)
@@ -159,36 +156,27 @@ def evaluate_test(model, loader, criterion, device, num_classes, out_dir):
     labels_np = cat_labels.cpu().numpy()
     class_names = [CLASS_NAMES[i] for i in range(num_classes)]
 
-    print("DME Classification Report")
-    print(classification_report(labels_np, preds, target_names=class_names, zero_division=0))
-
     cm = confusion_matrix(labels_np, preds)
     fig, ax = plt.subplots(figsize=(8, 6))
     sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
                 xticklabels=class_names, yticklabels=class_names, ax=ax)
     ax.set_xlabel("Predicted", fontweight="bold")
     ax.set_ylabel("True", fontweight="bold")
-    ax.set_title("MMRDR-OCT DME Confusion Matrix", fontweight="bold")
+    ax.set_title(f"MMRDR-OCT DME Confusion Matrix (Seed {seed})", fontweight="bold")
     plt.tight_layout()
-    cm_path = os.path.join(out_dir, "confusion_matrix.png")
+    cm_path = os.path.join(out_dir, f"confusion_matrix_seed{seed}.png")
     fig.savefig(cm_path, dpi=200, bbox_inches="tight")
     plt.close(fig)
-    print(f"{cm_path}")
 
     return metrics
 
-
 def main():
     parser = argparse.ArgumentParser(description="MMRDR-OCT DME Fine-Tuning")
-    parser.add_argument("--data_path", type=str, required=True,
-                        help="Root directory of MMRDR-OCT (contains img/ folder)")
-    parser.add_argument("--csv", type=str, required=True,
-                        help="Path to OCT.csv")
-    parser.add_argument("--checkpoint", type=str, default=None,
-                        help="Domain-adapted checkpoint. None = ImageNet baseline")
+    parser.add_argument("--data_path", type=str, required=True)
+    parser.add_argument("--csv", type=str, required=True)
+    parser.add_argument("--checkpoint", type=str, default=None)
     parser.add_argument("--save_dir", type=str, default="saved_models/mmrdr")
     parser.add_argument("--run_name", type=str, default=None)
-
     parser.add_argument("--epochs", type=int, default=EPOCHS)
     parser.add_argument("--batch_size", type=int, default=BATCH_SIZE)
     parser.add_argument("--lr_backbone", type=float, default=LR_BACKBONE)
@@ -197,155 +185,115 @@ def main():
     parser.add_argument("--warmup_epochs", type=int, default=WARMUP_EPOCHS)
     parser.add_argument("--grad_clip", type=float, default=GRAD_CLIP)
     parser.add_argument("--patience", type=int, default=PATIENCE)
-
     parser.add_argument("--arch", type=str, default=ARCH)
     parser.add_argument("--img_size", type=int, default=IMG_SIZE)
     parser.add_argument("--unfreeze_last_n", type=int, default=UNFREEZE_LAST_N)
     parser.add_argument("--head_hidden", type=int, default=HEAD_HIDDEN)
     parser.add_argument("--head_dropout", type=float, default=HEAD_DROPOUT)
     parser.add_argument("--num_workers", type=int, default=NUM_WORKERS)
-
     args = parser.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(f"device: {device}")
     os.makedirs(args.save_dir, exist_ok=True)
 
     train_df, val_df, test_df, num_classes = load_mmrdr_splits(
         args.csv, args.data_path, val_size=0.1,
     )
-
     weights = compute_class_weights(train_df, num_classes).to(device)
 
-    train_ds = MMRDRDataset(train_df, args.data_path, get_train_transform(args.img_size))
-    val_ds = MMRDRDataset(val_df, args.data_path, get_eval_transform(args.img_size))
-    test_ds = MMRDRDataset(test_df, args.data_path, get_eval_transform(args.img_size))
+    seeds = [42, 123, 456, 789, 999]
+    metrics_history = {"acc": [], "bal_acc": [], "macro_f1": [], "auc_roc": [], "kappa": []}
 
-    train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,
-                              num_workers=args.num_workers, pin_memory=True)
-    val_loader = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
-                            num_workers=args.num_workers, pin_memory=True)
-    test_loader = DataLoader(test_ds, batch_size=args.batch_size, shuffle=False,
-                             num_workers=args.num_workers, pin_memory=True)
+    for seed in seeds:
+        print(f"\n{'='*50}\nSTARTING RUN WITH SEED {seed}\n{'='*50}")
+        
+        torch.manual_seed(seed)
+        np.random.seed(seed)
+        torch.cuda.manual_seed_all(seed)
 
-    print(f"batches: train={len(train_loader)}, val={len(val_loader)}, test={len(test_loader)}")
+        train_ds = MMRDRDataset(train_df, args.data_path, get_train_transform(args.img_size))
+        val_ds = MMRDRDataset(val_df, args.data_path, get_eval_transform(args.img_size))
+        test_ds = MMRDRDataset(test_df, args.data_path, get_eval_transform(args.img_size))
 
-    backbone = load_backbone(args.arch, args.checkpoint, device)
-    model = MMRDRModel(
-        backbone=backbone,
-        num_classes=num_classes,
-        freeze_backbone=(args.unfreeze_last_n < 12),
-        unfreeze_last_n=args.unfreeze_last_n,
-        head_hidden=args.head_hidden,
-        head_dropout=args.head_dropout,
-    ).to(device)
+        train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True,
+                                  num_workers=args.num_workers, pin_memory=True)
+        val_loader = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
+                                num_workers=args.num_workers, pin_memory=True)
+        test_loader = DataLoader(test_ds, batch_size=args.batch_size, shuffle=False,
+                                 num_workers=args.num_workers, pin_memory=True)
 
-    param_groups = model.get_param_groups(args.lr_backbone, args.lr_heads, args.weight_decay)
-    optimizer = optim.AdamW(param_groups)
+        backbone = load_backbone(args.arch, args.checkpoint, device)
+        model = MMRDRModel(
+            backbone=backbone, num_classes=num_classes,
+            freeze_backbone=(args.unfreeze_last_n < 12),
+            unfreeze_last_n=args.unfreeze_last_n,
+            head_hidden=args.head_hidden, head_dropout=args.head_dropout,
+        ).to(device)
 
-    warmup = LinearLR(optimizer, start_factor=0.01, total_iters=args.warmup_epochs)
-    cosine = CosineAnnealingLR(optimizer, T_max=args.epochs - args.warmup_epochs, eta_min=1e-7)
-    scheduler = SequentialLR(optimizer, [warmup, cosine], milestones=[args.warmup_epochs])
+        param_groups = model.get_param_groups(args.lr_backbone, args.lr_heads, args.weight_decay)
+        optimizer = optim.AdamW(param_groups)
+        warmup = LinearLR(optimizer, start_factor=0.01, total_iters=args.warmup_epochs)
+        cosine = CosineAnnealingLR(optimizer, T_max=args.epochs - args.warmup_epochs, eta_min=1e-7)
+        scheduler = SequentialLR(optimizer, [warmup, cosine], milestones=[args.warmup_epochs])
+        criterion = nn.CrossEntropyLoss(weight=weights)
 
-    criterion = nn.CrossEntropyLoss(weight=weights)
+        run_name = f"{args.run_name or 'mmrdr'}_seed{seed}"
+        wandb.init(project="MMRDR-OCT-FineTune", name=run_name, config=vars(args), reinit=True)
 
-    run_name = args.run_name or f"mmrdr_{args.arch}_unfreeze{args.unfreeze_last_n}"
-    wandb.init(
-        project="MMRDR-OCT-FineTune",
-        name=run_name,
-        config=vars(args),
-    )
+        best_val_f1 = 0.0
+        patience_counter = 0
+        best_epoch = 0
+        save_path = os.path.join(args.save_dir, f"best_model_seed{seed}.pth")
 
-    best_val_f1 = 0.0
-    patience_counter = 0
-    best_epoch = 0
+        for epoch in range(1, args.epochs + 1):
+            t_loss, t_met = run_epoch(model, train_loader, criterion, device, num_classes,
+                                      optimizer=optimizer, scheduler=scheduler, grad_clip=args.grad_clip)
+            v_loss, v_met = run_epoch(model, val_loader, criterion, device, num_classes)
 
-    print(f"TRAINING - {args.epochs} epochs, {num_classes} classes")
+            wandb.log({
+                "epoch": epoch, "train/loss": t_loss, "train/f1": t_met["macro_f1"],
+                "val/loss": v_loss, "val/f1": v_met["macro_f1"],
+            })
 
-    for epoch in range(1, args.epochs + 1):
-        t0 = time.time()
+            if v_met["macro_f1"] > best_val_f1:
+                best_val_f1 = v_met["macro_f1"]
+                best_epoch = epoch
+                patience_counter = 0
+                torch.save({"model_state_dict": model.state_dict()}, save_path)
+            else:
+                patience_counter += 1
+                if patience_counter >= args.patience:
+                    print(f"Early stop at epoch {epoch}")
+                    break
 
-        t_loss, t_met = run_epoch(
-            model, train_loader, criterion, device, num_classes,
-            optimizer=optimizer, scheduler=scheduler, grad_clip=args.grad_clip,
-        )
-        v_loss, v_met = run_epoch(
-            model, val_loader, criterion, device, num_classes,
-        )
+        print(f"Testing best model (epoch {best_epoch}) for seed {seed}...")
+        best_ckpt = torch.load(save_path, map_location=device, weights_only=False)
+        model.load_state_dict(best_ckpt["model_state_dict"])
+        test_met = evaluate_test(model, test_loader, criterion, device, num_classes, args.save_dir, seed=seed)
 
-        elapsed = time.time() - t0
-        lr = optimizer.param_groups[0]["lr"]
+        for k in metrics_history.keys():
+            metrics_history[k].append(test_met[k])
+        wandb.finish()
 
-        print(f"epoch {epoch:02d}/{args.epochs} ({elapsed:.0f}s) lr={lr:.2e}")
-        print(f"train  loss={t_loss:.4f}  F1={t_met['macro_f1']:.4f}  "
-              f"AUC={t_met['auc_roc']:.4f}  Kappa={t_met['kappa']:.4f}")
-        print(f"val    loss={v_loss:.4f}  F1={v_met['macro_f1']:.4f}  "
-              f"AUC={v_met['auc_roc']:.4f}  Kappa={v_met['kappa']:.4f}  "
-              f"(best_f1={best_val_f1:.4f})")
-
-        wandb.log({
-            "epoch": epoch, "lr": lr,
-            "train/loss": t_loss, "train/f1": t_met["macro_f1"],
-            "train/acc": t_met["acc"], "train/auc": t_met["auc_roc"],
-            "train/kappa": t_met["kappa"],
-            "val/loss": v_loss, "val/f1": v_met["macro_f1"],
-            "val/acc": v_met["acc"], "val/auc": v_met["auc_roc"],
-            "val/kappa": v_met["kappa"],
-        })
-
-        if v_met["macro_f1"] > best_val_f1:
-            best_val_f1 = v_met["macro_f1"]
-            best_epoch = epoch
-            patience_counter = 0
-
-            save_path = os.path.join(args.save_dir, "best_model.pth")
-            torch.save({
-                "epoch": epoch,
-                "model_state_dict": model.state_dict(),
-                "val_f1": best_val_f1,
-                "val_metrics": v_met,
-                "config": vars(args),
-                "num_classes": num_classes,
-            }, save_path)
-            print(f" New best! Saved -> {save_path}")
+    print("\n" + "="*50)
+    print("FINAL ROBUSTNESS RESULTS (5 Seeds)")
+    print("="*50)
+    final_summary = {}
+    for k, v in metrics_history.items():
+        mean_val = np.mean(v)
+        std_val = np.std(v)
+        ci_95 = 1.96 * (std_val / np.sqrt(len(seeds)))
+        final_summary[k] = {"mean": mean_val, "std": std_val, "ci_95": ci_95}
+        
+        if k in ["acc", "bal_acc"]:
+            print(f"{k}: {mean_val:.2f}% ± {std_val:.2f}% (95% CI: ±{ci_95:.2f}%)")
         else:
-            patience_counter += 1
-            if patience_counter >= args.patience:
-                print(f"\n[EARLY STOP] Best: epoch {best_epoch}, F1={best_val_f1:.4f}")
-                break
+            print(f"{k}: {mean_val:.4f} ± {std_val:.4f} (95% CI: ±{ci_95:.4f})")
 
-    print(f"FINAL TEST (best checkpoint: epoch {best_epoch})")
-    best_ckpt = torch.load(os.path.join(args.save_dir, "best_model.pth"), map_location=device)
-    model.load_state_dict(best_ckpt["model_state_dict"])
-
-    test_met = evaluate_test(model, test_loader, criterion, device, num_classes, args.save_dir)
-
-    print("final results")
-    print(f"accuracy:     {test_met['acc']:.2f}%")
-    print(f"balanced Acc: {test_met['bal_acc']:.2f}%")
-    print(f"macro-F1:     {test_met['macro_f1']:.4f}")
-    print(f"AUC-ROC:      {test_met['auc_roc']:.4f}")
-    print(f"kappa:        {test_met['kappa']:.4f}")
-
-    results = {
-        "checkpoint": args.checkpoint or "ImageNet baseline",
-        "best_epoch": best_epoch,
-        "test_metrics": test_met,
-        "config": vars(args),
-    }
-    json_path = os.path.join(args.save_dir, "results.json")
+    json_path = os.path.join(args.save_dir, "robustness_results.json")
     with open(json_path, "w") as f:
-        json.dump(results, f, indent=2)
-    print(f"\n{json_path}")
-
-    wandb.log({
-        "test/acc": test_met["acc"], "test/bal_acc": test_met["bal_acc"],
-        "test/f1": test_met["macro_f1"], "test/auc": test_met["auc_roc"],
-        "test/kappa": test_met["kappa"],
-    })
-    wandb.finish()
-    print("done.")
-
+        json.dump({"seeds": seeds, "raw": metrics_history, "summary": final_summary}, f, indent=2)
+    print(f"Results saved to {json_path}")
 
 if __name__ == "__main__":
     main()
